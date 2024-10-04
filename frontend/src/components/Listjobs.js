@@ -1,5 +1,5 @@
 import React, { useState } from 'react'; 
-
+import Jobdetails from './Jobdetails'
 function Listjobs() {
     
     const [jobs, setJobs] = useState([
